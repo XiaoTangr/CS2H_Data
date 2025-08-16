@@ -1,5 +1,10 @@
 [
     {
+        "publishTitle": "首页bug通知",
+        "publishDate": "2025年8月16日",
+        "publishContent": "v1.0.0在首次启动时首页比例有问题,在指定steam安装路径之后重启软件或者按F5键即可解决"
+    },
+    {
         "publishTitle": "测试版本",
         "publishDate": "2025年8月2日",
         "publishContent": "测试版本,不代表最终品质!<br>如遇到bug,请前往Github反馈"
